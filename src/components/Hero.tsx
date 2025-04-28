@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
@@ -56,7 +55,7 @@ const Hero: React.FC = () => {
         <div className="relative animate-slide-up">
           <div className="w-full h-auto bg-white rounded-xl shadow-xl overflow-hidden border border-gray-100">
             <img 
-              src="https://source.unsplash.com/nASv5-J4ZuM" 
+              src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b" 
               alt="Fidot App Interface" 
               className="w-full h-auto"
             />

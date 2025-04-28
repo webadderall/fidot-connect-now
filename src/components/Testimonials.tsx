@@ -54,7 +54,7 @@ const Testimonials: React.FC = () => {
       name: "Dr. Sarah Johnson",
       role: "Principal",
       school: "Westlake Academy",
-      image: "https://source.unsplash.com/7RI1MAfLAWg",
+      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2",
       type: 'principal' as const
     },
     {
@@ -62,14 +62,14 @@ const Testimonials: React.FC = () => {
       name: "Michael Chen",
       role: "5th Grade Teacher",
       school: "Oakridge Elementary",
-      image: "https://source.unsplash.com/sibVwORYqs0",
+      image: "https://images.unsplash.com/photo-1544717305-2782549b5136",
       type: 'teacher' as const
     },
     {
       quote: "With three kids in different grades, keeping track of school events was overwhelming. Fidot organizes everything in one place, so I never miss important updates.",
       name: "Latisha Williams",
       role: "Parent",
-      image: "https://source.unsplash.com/J1OScm_uHUQ",
+      image: "https://images.unsplash.com/photo-1601931935821-5fbe71157695",
       type: 'parent' as const
     },
     {
@@ -77,7 +77,7 @@ const Testimonials: React.FC = () => {
       name: "Robert Menendez",
       role: "Technology Director",
       school: "Lincoln High School",
-      image: "https://source.unsplash.com/7YVZYaVbUmw",
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
       type: 'principal' as const
     }
   ];

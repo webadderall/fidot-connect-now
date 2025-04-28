@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { cn } from "@/lib/utils";
 
@@ -193,10 +192,10 @@ const HowItWorks: React.FC = () => {
           <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-200">
             <img 
               src={activeUserType === 'school' 
-                ? "https://source.unsplash.com/5MlBMYDsGBY" 
+                ? "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d" 
                 : activeUserType === 'parent'
-                ? "https://source.unsplash.com/sXzEKBW1m3c"
-                : "https://source.unsplash.com/ULh0i2txBCY"
+                ? "https://images.unsplash.com/photo-1649972904349-6e44c42644a7"
+                : "https://images.unsplash.com/photo-1461749280684-dccba630e2f6"
               } 
               alt={`Fidot for ${activeUserType}s`}
               className="w-full h-auto aspect-[4/3] object-cover"
